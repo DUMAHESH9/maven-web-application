@@ -59,7 +59,7 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- compile dependencies -->
+		<!-- compiles dependencies -->
 
 		<dependency>
 			<groupId>org.springframework</groupId>
