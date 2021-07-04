@@ -40,7 +40,7 @@
 			<version>20160212</version>
 		</dependency>
 		
-		<!-- test dependencies -->
+		<!-- test dependenciess -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
