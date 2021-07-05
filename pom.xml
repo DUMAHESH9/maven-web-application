@@ -107,7 +107,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8081/repository/flipkart-maven-dependencies/</url>
+	      <url>http://localhost:8081/repository/maven-projet-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
