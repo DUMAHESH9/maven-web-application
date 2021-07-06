@@ -12,8 +12,8 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>DevSecOps CICD</name>
-		<url>http://devopscicd.co.in/</url>
+		<name>Facebook</name>
+		<url>http://facebook.com</url>
 	</organization>
 
 	<properties>
