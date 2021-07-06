@@ -24,11 +24,11 @@
 		<!-- <sonar.host.url>http://13.232.5.182:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password> -->
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> 
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<sonar.host.url>http://65.2.130.67:9000/</sonar.host.url>
+		<sonar.host.url>http://13.127.95.78:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
-		<sonar.password>mahesh</sonar.password> 
+		<sonar.password>admin</sonar.password> 
 
 	</properties>
 
